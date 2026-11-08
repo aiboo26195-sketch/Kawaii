@@ -1,0 +1,5 @@
+KAWAII ASISTEN (versi aplikasi untuk Android)
+Isi: index.html, manifest.webmanifest, sw.js, 3 gambar ikon.
+Unggah SEMUA file ini ke satu tempat hosting gratis (contoh: GitHub Pages),
+lalu buka alamatnya di Chrome Android dan pilih "Instal aplikasi".
+Kunci API dimasukkan lewat tombol di dalam aplikasi, jangan ditulis di file.
